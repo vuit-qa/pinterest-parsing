@@ -1,2 +1,2 @@
 # pinterest-parsing
-sample pinterest parsing (php)
+sample pinterest parser (php)
